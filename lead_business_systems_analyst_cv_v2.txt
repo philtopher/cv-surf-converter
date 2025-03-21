@@ -1,0 +1,69 @@
+TOCHI UNAMKA | London | Mobile: 07598286687 | Email: tufort-teams@yahoo.com
+
+PROFESSIONAL SUMMARY
+Results-driven Business Systems Analyst with extensive experience in providing functional knowledge and support for key applications within complex technology stacks. Skilled in collaborating with business stakeholders and transformation teams to translate business requirements into technology solutions. Proficient in configuring, releasing, and supporting applications such as Microsoft D365 and PowerApps. Strong technical guidance and support skills, with a focus on problem-solving and effective communication.
+
+CORE SKILLS & TECHNOLOGIES
+• Functional Knowledge: Microsoft D365, PowerApps
+• Collaboration: Stakeholder Engagement, Business Requirements Translation
+• Configuration & Release Management: Application Configuration, Release Support
+• Technical Guidance: Team Support, Technology Solutions
+• DevOps & Microsoft Technologies: DevOps, Dynamics 365, Microsoft SQL Server, Azure
+• Communication & Problem-Solving: Excellent Written and Verbal Skills, Analytical Thinking
+
+WORK EXPERIENCE
+Lead Business Systems Analyst (Contractor) | Fortnum & Mason | 11/22 – Present
+Project: Providing Functional Support and Direction for Key Applications
+Key Achievements:
+• Successfully configured and supported Microsoft D365 to meet business requirements.
+• Collaborated with transformation teams to design solutions aligned with business strategy.
+• Provided technical guidance and support to team members and stakeholders.
+Responsibilities:
+• Configure D365 F&O / Commerce to support business requirements.
+• Design solutions and write functional design documents for optimal solutions.
+• Collaborate with experts across technology and the wider business to ensure systems are supported.
+
+Azure Solutions Architect (Contractor) | Global Payment UK | 12/20 – 10/22
+Project: Migrating Legacy Monolithic Systems to Microservices & Cloud-Native Applications on Azure.
+• Designed containerized microservices architecture leveraging Kubernetes and Docker.
+• Automated CI/CD pipelines using Azure DevOps, Jenkins, and Terraform.
+• Integrated Azure Security Center and Azure Policy for enhanced security and compliance.
+• Conducted security audits and vulnerability scans to ensure compliance.
+
+Azure Cloud Engineer (Contractor) | Capgemini UK | 01/19 – 11/20
+Projects:
+• Real-Time ML Forecasting using Azure Cloud Services.
+• Bioinformatics Workflows on Azure.
+• Built high-availability cloud solutions with multi-region redundancy.
+• Automated infrastructure using Terraform and ARM Templates.
+• Led security and performance tuning for Azure-based solutions.
+
+Azure Infrastructure Engineer | Data Link UK | 05/16 – 12/18
+Key Achievements:
+• Designed and deployed cloud infrastructure for business applications.
+• Implemented APIs for system integration, improving application performance.
+• Managed Azure networking and security configurations.
+Responsibilities:
+• Designed and deployed Azure Virtual Networks, Subnets, and Network Security Groups.
+• Implemented Azure Load Balancer and Application Gateway for high availability.
+• Enforced Azure RBAC and Managed Identities for access control.
+
+Linux System Administrator | Tour Ryde Group | 10/12 – 04/16
+Key Achievements:
+• Managed Linux-based servers ensuring 99.9% uptime.
+• Automated backup processes and disaster recovery planning.
+• Implemented firewalls and intrusion detection for security enhancement.
+Responsibilities:
+• Managed Linux systems, ensuring uptime and reliability.
+• Automated backup processes, safeguarding critical data.
+• Implemented security measures, including firewalls and intrusion detection systems.
+
+EDUCATION & CERTIFICATIONS
+• BA in Industrial Engineering or Equivalent
+• Microsoft Certified: Azure Solutions Architect Expert
+• Microsoft Certified: Azure Administrator Associate (AZ-104)
+• AWS Certified DevOps Engineer (Professional)
+• AWS Certified Solutions Architect (Associate)
+• HashiCorp Certified: Terraform Associate
+
+REFERENCES: Available upon request.

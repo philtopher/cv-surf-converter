@@ -1,0 +1,32 @@
+(jd.docx)
+REACH YOUR POTENTIAL | COLLABORATE WITH AMAZING PEOPLE | MAKE CHANGE HAPPEN
+
+Do you have the skills, passion, and commitment to transform our clients for the better? Are you ready to be a changemaker? If so, join us.
+
+North Highland is the world’s leading change and transformation consultancy. Simply put, we make change happen like no one else. And we’re on the hunt for a new Azure Architect – inside IR35 – 6 months
+
+HOW WILL YOU MAKE CHANGE HAPPEN?
+
+North Highland are working with one of our key customers in the Logistics space. You will be joining an existing team of NH Consultant’s and will help drive some exciting transformation projects.
+
+YOU WILL:
+•	Design Azure Infrastructure and work with the Infrastructure team to get an agreement on the Azure Solution
+•	Understand Azure Networking and Infrastructure to define end-to-end solution
+•	Produce Solution Architecture Document
+•	Produce Interface Control Document for Rest and SOAP APIs
+•	Produce Microservices Document
+•	Work with TDA for solution approval
+•	Work with the Security team to ensure the solution meets security guidelines and requirements
+IDEALLY, WE’D LIKE:
+•	Experienced Azure Solutions Architect focused on Application functionality and Infrastructure aspects on how different components for a solution will work together
+•	Hands-on experience with Azure services and the ability to provision Azure services to verify design decisions
+•	Able to make decisions on PaaS / IaaS services that are fit for the purpose of the solution
+•	Ideally have e-Commerce experience
+•	Have an understanding of SQL and NO SQL databases preferably Azure SQL and Cosmos DB
+•	Strong concepts on Security Protocols and its usage e.g. SAML, OIDC, OAUT 2.0, JWT, RBAC, Managed Identities
+•	Great understanding of Azure Dev Ops (CICD)
+•	Understanding of Azure Landing Zones and policy-based governance
+DESIRABLE:
+•	Consulting experience
+
+

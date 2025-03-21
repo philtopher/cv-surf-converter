@@ -1,0 +1,59 @@
+TOCHI UNAMKA | London | Mobile: 07598286687 | Email: tufort-teams@yahoo.com
+
+PROFESSIONAL SUMMARY
+Results-driven Project Manager Officer with proven experience in managing and executing large-scale projects within technology companies. Skilled in project status tracking, milestone monitoring, risk management, and liaising with global teams. Adept at managing end-to-end project releases and ensuring adherence to organizational procedures. Strong technical understanding of app development and excellent communication skills. Proactive, self-motivated, and capable of prioritizing tasks in dynamic environments.
+
+CORE SKILLS & TECHNOLOGIES
+• Project Management: Project Status Tracking, Milestone Monitoring, Risk Management, End-to-End Releases
+• Technical Skills: App Development Understanding, MS Office Proficiency
+• Communication: Excellent English Written and Oral Skills
+• Global Collaboration: Experience Working with Global Teams
+• Personal Attributes: Proactive, Self-Motivated, Strong Sense of Ownership
+
+WORK EXPERIENCE
+Project Manager Officer (Contractor) | Lloyds Bank | 11/22 – Present
+Project: Managing Large-Scale Financial Technology Projects
+Key Achievements:
+• Successfully managed multiple projects, ensuring timely completion and adherence to budget.
+• Developed project plans and tracked milestones, improving project delivery efficiency.
+• Collaborated with global teams to align project goals with organizational objectives.
+• Implemented risk management strategies, reducing project delays by 20%.
+Responsibilities:
+• Track project status using internal applications and maintain project setups.
+• Monitor project milestones and manage risks and dependencies.
+• Liaise between technology teams and manage end-to-end releases.
+
+Azure Solutions Architect (Contractor) | Global Payment UK | 12/20 – 10/22
+Project: Migrating Legacy Monolithic Systems to Microservices & Cloud-Native Applications on Azure.
+• Designed containerized microservices architecture leveraging Kubernetes and Docker.
+• Automated CI/CD pipelines using Azure DevOps, Jenkins, and Terraform.
+• Integrated Azure Security Center and Azure Policy for enhanced security and compliance.
+• Conducted security audits and vulnerability scans to ensure compliance.
+
+Azure Cloud Engineer (Contractor) | Capgemini UK | 01/19 – 11/20
+Projects:
+• Real-Time ML Forecasting using Azure Cloud Services.
+• Bioinformatics Workflows on Azure.
+• Built high-availability cloud solutions with multi-region redundancy.
+• Automated infrastructure using Terraform and ARM Templates.
+• Led security and performance tuning for Azure-based solutions.
+
+Linux System Administrator | Tour Ryde Group | 10/12 – 04/16
+Key Achievements:
+• Managed Linux-based servers ensuring 99.9% uptime.
+• Automated backup processes and disaster recovery planning.
+• Implemented firewalls and intrusion detection for security enhancement.
+Responsibilities:
+• Managed Linux systems, ensuring uptime and reliability.
+• Automated backup processes, safeguarding critical data.
+• Implemented security measures, including firewalls and intrusion detection systems.
+
+EDUCATION & CERTIFICATIONS
+• BA in Industrial Engineering or Equivalent
+• Microsoft Certified: Azure Solutions Architect Expert
+• Microsoft Certified: Azure Administrator Associate (AZ-104)
+• AWS Certified DevOps Engineer (Professional)
+• AWS Certified Solutions Architect (Associate)
+• HashiCorp Certified: Terraform Associate
+
+REFERENCES: Available upon request.

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Transformation and Alignment</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CV Transformation and Alignment</h1>
+        
+        <!-- CV Upload and Job Description Form -->
+        <div class="section">
+            <h2>Transform Your CV</h2>
+            <form id="cvForm">
+                <div class="form-group">
+                    <label for="cvUpload">Upload Your CV:</label>
+                    <input type="file" id="cvUpload" name="cvUpload" accept=".docx,.pdf,.txt" required>
+                </div>
+                
+                <div class="form-group">
+                    <label>Job Description:</label>
+                    <div class="jd-options">
+                        <div class="option">
+                            <input type="radio" id="jdTextOption" name="jdOption" value="text" checked>
+                            <label for="jdTextOption">Paste Job Description</label>
+                        </div>
+                        <div class="option">
+                            <input type="radio" id="jdUrlOption" name="jdOption" value="url">
+                            <label for="jdUrlOption">Provide URL</label>
+                        </div>
+                    </div>
+                    
+                    <div id="jdTextContainer">
+                        <textarea id="jdInput" name="jdInput" placeholder="Paste job description here..." rows="6"></textarea>
+                    </div>
+                    
+                    <div id="jdUrlContainer" class="hidden">
+                        <input type="url" id="jdUrl" name="jdUrl" placeholder="Provide URL to job description">
+                        <p class="warning">Warning: Do not provide URLs to password-protected pages.</p>
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="targetRole">Target Role:</label>
+                    <input type="text" id="targetRole" name="targetRole" placeholder="e.g., Senior Project Manager">
+                </div>
+                
+                <button type="submit" id="convertBtn">Convert CV</button>
+            </form>
+        </div>
+        
+        <!-- Converted CV Display Section -->
+        <div class="section" id="convertedCvSection">
+            <h2>Converted CV</h2>
+            <div id="convertedCvDisplay">
+                <p class="placeholder">Your converted CV will appear here after processing.</p>
+            </div>
+            
+            <div class="download-options hidden">
+                <h3>Download Options:</h3>
+                <button id="downloadWord">Download as Word</button>
+                <button id="downloadPdf">Download as PDF</button>
+            </div>
+        </div>
+        
+        <!-- Previous Conversions Section -->
+        <div class="section" id="previousConversionsSection">
+            <h2>Previous Conversions</h2>
+            <div id="previousConversionsList">
+                <p class="placeholder">Your previous CV conversions will appear here.</p>
+            </div>
+        </div>
+        
+        <!-- Data Deletion Request Form -->
+        <div class="section" id="deletionRequestSection">
+            <h2>Request Data Deletion</h2>
+            <form id="deletionRequestForm">
+                <div class="form-group">
+                    <label for="userEmail">Your Email:</label>
+                    <input type="email" id="userEmail" name="userEmail" required>
+                </div>
+                <div class="form-group">
+                    <label for="requestReason">Reason (Optional):</label>
+                    <textarea id="requestReason" name="requestReason" rows="3"></textarea>
+                </div>
+                <button type="submit">Submit Deletion Request</button>
+            </form>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
